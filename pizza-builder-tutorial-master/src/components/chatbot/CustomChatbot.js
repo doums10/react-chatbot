@@ -1,21 +1,32 @@
 import React from "react";
 import ChatBot from "react-simple-chatbot";
 
-function CustomChatBot(props) {
+function CustomChatbot(props) {
+
+	const config = {
+		width: "300px",
+		height: "400px",
+		floating: true
+	};
 
 	const steps = [
 	{
 		id: "Greet",
 		message: "Hello,Welcome to our shop",
-		trigger: "Done"
+		trigger: "Ask Name"
+	},
+	{
+		id: "Ask Name",
+		message: "Hello,Welcome to our shop",
+		trigger: "Ask Name"
 	},
 	{
 		id: "Done",
 		message:"Have a great day!!",
-		end: "true"
+		end: true
 	}
 	];
-	return <ChatBot steps={steps} />;
+	return <ChatBot steps={steps} {...config} />;
 }
 
-export default CustomChatBot;
+export default CustomChatbot;
