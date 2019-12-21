@@ -58,7 +58,7 @@ class Pizza extends Component {
               {veggie}
             </div>
           </div>
-           <CustomChatbot />
+           <CustomChatbot eventHandler={this.clickEventHandler}/>
           <ButtonGroup eventHandler={this.clickEventHandler} />
          
         </div>
