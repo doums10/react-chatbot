@@ -2,7 +2,7 @@ import React from "react";
 
 function ButtonGroup(props) {
   const buttonWidth = {
-    width: "600px"
+    width: "300px"
   };
   return (
     <div>
