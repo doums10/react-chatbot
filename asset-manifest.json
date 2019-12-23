@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-chatbot/static/css/main.8fdb8fac.chunk.css",
+    "main.js": "/react-chatbot/static/js/main.b2f634fe.chunk.js",
+    "main.js.map": "/react-chatbot/static/js/main.b2f634fe.chunk.js.map",
+    "runtime-main.js": "/react-chatbot/static/js/runtime-main.9975130d.js",
+    "runtime-main.js.map": "/react-chatbot/static/js/runtime-main.9975130d.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/react-chatbot/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.4415c6b5.chunk.js": "/react-chatbot/static/js/2.4415c6b5.chunk.js",
+    "static/js/2.4415c6b5.chunk.js.map": "/react-chatbot/static/js/2.4415c6b5.chunk.js.map",
+    "index.html": "/react-chatbot/index.html",
+    "precache-manifest.c41d6e7ba42a8f32e79ae945d3041f61.js": "/react-chatbot/precache-manifest.c41d6e7ba42a8f32e79ae945d3041f61.js",
+    "service-worker.js": "/react-chatbot/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/react-chatbot/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.8fdb8fac.chunk.css.map": "/react-chatbot/static/css/main.8fdb8fac.chunk.css.map",
+    "static/js/2.4415c6b5.chunk.js.LICENSE": "/react-chatbot/static/js/2.4415c6b5.chunk.js.LICENSE",
+    "static/media/logo.svg": "/react-chatbot/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9975130d.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.4415c6b5.chunk.js",
+    "static/css/main.8fdb8fac.chunk.css",
+    "static/js/main.b2f634fe.chunk.js"
+  ]
+}
